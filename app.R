@@ -1,3 +1,7 @@
+#Name: Shawn Isaac Eddie
+#ID: 20001155
+#LAB 5 Data Science
+
 # Load required libraries
 library(shiny)
 
